@@ -17,14 +17,14 @@ Visit my website: [YourWebsiteURL](https://yourwebsite.com)
 
 ## 📂 File Structure
 root
-├── index.html 
-├── style.css 
-├── script.js 
-├── assets/ 
-│ ├── images/ 
-│ ├── icons/ 
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│ ├── images/
+│ ├── icons/
 └── README.md
-
 
 ## 📬 Contact Me
 Feel free to connect with me!  
