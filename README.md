@@ -3,11 +3,12 @@
 Welcome to my personal portfolio website! 🌟 This is where I showcase my skills, projects, and passion for coding and technology.
 
 ## 🔗 Live Preview
-Visit my website: [YourWebsiteURL](https://yourwebsite.com)
+Visit my website: [YourWebsiteURL](https://coderhasib.vercel.app/)
 
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript  
 - **Design :**  CSS, JavaScript 
+- **Responsive :**  CSS, Media Queries, JavaScript 
 
 ## ✨ Features
 - Responsive design for all devices  
@@ -16,15 +17,17 @@ Visit my website: [YourWebsiteURL](https://yourwebsite.com)
 - Clean and minimal UI for easy navigation  
 
 ## 📂 File Structure
-root
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│ ├── images/
-│ ├── icons/
-└── README.md
+root  
+│  
+├── index.html  
+├── style.css  
+├── script.js  
+├── assets/  
+│   ├── images/  
+│   └── icons/  
+└── README.md  
+
+
 
 ## 📬 Contact Me
 Feel free to connect with me!  
