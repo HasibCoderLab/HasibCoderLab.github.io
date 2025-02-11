@@ -465,11 +465,11 @@ header::before {
 }
 
 .bar .progress-line.python span {
-    width: 45%;
+    width: 16%;
 }
 
 .bar .progress-line.problem span {
-    width:35%;
+    width:18%;
 }
 
 
@@ -535,11 +535,11 @@ header::before {
 }
 
 .progress-line.python span::after {
-    content: "45%";
+    content: "16%";
 }
 
 .progress-line.problem span::after {
-    content: "30%";
+    content: "18%";
 }
 
 
